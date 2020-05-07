@@ -56,7 +56,6 @@ var budgetController = (function () {
     }
   };
 
-
 })();
 
 
